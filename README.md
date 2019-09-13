@@ -5,6 +5,9 @@
  * Vulkan SDK
  * Vulkan-compatible graphics hardware & up-to-date drivers
  * Visual Studio 2017+
+ 
+This is a fork of the code repo for this excellent series of articles on network programming.
+http://www.codersblock.org/blog/multiplayer-fps-part-1
 
 ## Things done to get original repo working
 Change project working directory to odin/data.
